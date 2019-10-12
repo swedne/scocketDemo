@@ -1,1 +1,4 @@
 # scocketDemo
+本demo主要包含Android客户端的以及服务端的测试代码，导入AndroidStudio即可使用
+运行TestServer启动服务端程序
+运行app启动客户端
